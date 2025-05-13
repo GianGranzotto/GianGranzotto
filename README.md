@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GianGranzotto
-- 👀 I’m interested in UX/UI design
-- 🌱 I’m currently learning UX/UI design
+
 
 
 <!---
